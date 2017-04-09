@@ -2,8 +2,8 @@
 ###################
 *.h5
 *.npy
-*.mp4
 *.pdf
+.ipynb_checkpoints
 
 # Compiled source #
 ###################
@@ -42,3 +42,4 @@
 .Trashes
 ehthumbs.db
 Thumbs.db
+
